@@ -5,5 +5,11 @@ A ideia é que o metaverso seja uma espécie de Internet 3D, onde comunicação,
 
 ![Imagem](imagem/metaverso.png)
 
-Fonte:
+
+ # Páginas
+[Quando surgiu o metaverso?](surgimento.md)
+
+## Fontes
 [Techtudo](https://www.techtudo.com.br/noticias/2021/11/o-que-e-metaverso-entenda-o-projeto-que-mudou-o-nome-do-facebook.ghtml)
+
+[Nubank](https://blog.nubank.com.br/metaverso-o-que-e/)
