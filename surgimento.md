@@ -19,3 +19,5 @@ Exemplo de óculos de realidade virtual que pode ser usado para entrar no metave
 ```
 
 
+# Paginas
+[Metaverso](metaverso.md)
